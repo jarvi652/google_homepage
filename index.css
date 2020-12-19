@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    position:relative;
+    float: right;
+    padding: 1.5rem;
+
+}
+img{
+    width:30px;
+}
+a{
+    cursor: pointer;
+}
+
+h1{
+    color: #1a0dab;
+    font-size: 8rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+input{
+    width: 50%;
+    height: 5vh;
+    margin-left:20rem;
+    border-radius: 50px;
+    margin-top: 1.5rem;
+}
+button{
+    padding:0.5rem;
+    margin-top: 1.5rem;
+    border: none;
+    cursor: pointer;
+}
+.btn{
+    margin-left:35rem;
+}
+.container{
+    padding-top: 12rem;
+}
+
